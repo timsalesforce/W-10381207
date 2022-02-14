@@ -1,0 +1,12 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true
+    }
+  ],
+  "name": "W-10381207",
+  "namespace": "",
+  "sfdcLoginUrl": "https://tdionne-ltm.internal.salesforce.com:7829",
+  "sourceApiVersion": "52.0"
+}
